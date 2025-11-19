@@ -55,7 +55,7 @@ Whether you’re building a personal cookbook or a shared recipe platform, this 
 bash
 #### Clone the repo
 
-git clone https://github.com/ajay-k-14/Recipe-Generator.git
+git clone https://github.com/ajay-k-14/Recipe-Generator-.git
 
 cd Recipe-Generator
 
